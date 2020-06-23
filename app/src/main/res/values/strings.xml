@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AccountKit</string>
+    <string name="signinIDToken">ID Token Sign-In</string>
+    <string name="lableSignIn">Sign-In using</string>
+    <string name="codeeSignIn">Authorization Code Sign-In</string>
+    <string name="signout">Sign Out</string>
+</resources>
